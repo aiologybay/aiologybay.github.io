@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "personal resume"
 date: 2013-05-22
 excerpt: "Examples and code for displaying images in posts."

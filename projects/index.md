@@ -6,5 +6,4 @@ excerpt: "Examples and code for displaying images in posts."
 tags: [sample post, images, test]
 comments: false
 ---
-<embed src="https://aiologybay.github.io/assets/pdf/cv.pdf" id="review" style="width:800px;  height:750px; margin-top:45px;margin-left:500px" >
-</embed>
+<embed width="800" height="1200" src="https://aiologybay.github.io/assets/pdf/cv.pdf">

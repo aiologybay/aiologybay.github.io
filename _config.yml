@@ -1,7 +1,7 @@
 # Site
-title:              LQblog
-bio:                'a blog records the life.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              LiQiu
+bio:                'a web to records the life.'
+description:        "Do what you want, and love who you love!"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -38,8 +38,8 @@ disqus_shortname:   aiologybay
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
+#twitter:            username
+#facebook:           username
 github-url:         aiologybay
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username

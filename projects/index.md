@@ -6,4 +6,4 @@ excerpt: "Examples and code for displaying images in posts."
 tags: [sample post, images, test]
 comments: false
 ---
-<embed width="700" height="1200" src="https://aiologybay.github.io/assets/pdf/PersonalResume_LiQiu.pdf">
+<embed width="800" height="1150" src="https://aiologybay.github.io/assets/pdf/PersonalResume_LiQiu.pdf">

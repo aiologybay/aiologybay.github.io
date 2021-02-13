@@ -1,11 +1,10 @@
 ---
 layout: page
-title: 关于
+title: About
 tags: [about]
-date: 2020-02-06
+date: 2021-02-12
 comments: false
 ---
-
-&emsp;&emsp;该Blog所有文章使用Markdown编写，原本定下来的主题是技术博客，但细想了一下，这类博文过于枯燥，并且国内CSDN一大堆这种博文，实在没意思。索性就不固定主题吧，随性记录，我想到什么写什么。
+&emsp;&emsp;该Blog所有文章使用Markdown编写。没有固定主题，我想到什么写什么。
 <br/>
-&emsp;&emsp;国内使用宽带时偶尔会出现无法访问或速度较慢的情况，建议将DNS换为Google DNS(8.8.8.8)或Cloudflare DNS(1.1.1.1)。使用~~VPN~~或~~Proxy Server~~的忽略此建议。
+&emsp;&emsp;国内使用宽带时偶尔会出现无法访问或速度较慢的情况，建议将本地DNS换为Google DNS(8.8.8.8)或Cloudflare DNS(1.1.1.1)。使用移动网络、VPN或国外proxy server也可正常访问。

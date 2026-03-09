@@ -38,19 +38,19 @@ disqus_shortname:   aiologybay
   #ad-slot:
 #bing-verify:
 #email:
-#twitter:            username
-#facebook:           username
-github-url:         aiologybay
+twitter:            username
+facebook:           username
+# github-url:         aiologybay
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+# linkedin:          username
 #xing:              username
-#instagram:          username
+instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-#steam:              username
+steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
@@ -70,7 +70,7 @@ gems:
   - jekyll-gist
 
 jekyll-mentions:
-    base_url: https://github.com1
+    base_url: https://github.com
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]

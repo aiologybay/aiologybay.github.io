@@ -7,4 +7,4 @@ comments: false
 ---
 &emsp;&emsp;
 <br/>
-&emsp;&emsp;国内使用宽带时偶尔会出现无法访问或速度较慢的情况，建议将本地DNS换为Google DNS(8.8.8.8)或Cloudflare DNS(1.1.1.1)。使用移动网络、VPN或国外proxy server可正常访问。
+&emsp;&emsp;Occasionally, when using broadband in China, there may be situations where access is unavailable or the speed is slow. It is recommended to replace the local DNS with Google DNS (8.8.8.8) or Cloudflare DNS (1.1.1.1). Normal access can be achieved by using mobile networks, VPN or foreign proxy servers.
